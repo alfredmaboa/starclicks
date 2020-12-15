@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/starclicks/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/starclicks/static/js/main.acb76c12.chunk.js",
+    "main.js.map": "/starclicks/static/js/main.acb76c12.chunk.js.map",
+    "runtime-main.js": "/starclicks/static/js/runtime-main.a1bc1fa2.js",
+    "runtime-main.js.map": "/starclicks/static/js/runtime-main.a1bc1fa2.js.map",
+    "static/js/2.8c6bb210.chunk.js": "/starclicks/static/js/2.8c6bb210.chunk.js",
+    "static/js/2.8c6bb210.chunk.js.map": "/starclicks/static/js/2.8c6bb210.chunk.js.map",
+    "static/js/3.188abcc9.chunk.js": "/starclicks/static/js/3.188abcc9.chunk.js",
+    "static/js/3.188abcc9.chunk.js.map": "/starclicks/static/js/3.188abcc9.chunk.js.map",
+    "index.html": "/starclicks/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/starclicks/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.8c6bb210.chunk.js.LICENSE.txt": "/starclicks/static/js/2.8c6bb210.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/starclicks/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1bc1fa2.js",
+    "static/js/2.8c6bb210.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.acb76c12.chunk.js"
+  ]
+}
